@@ -1,5 +1,9 @@
 # appsec.cc
 
+TODO
+
+![DNS conf](./docs/image.png?raw=true)
+
 A hands-on **dev-security training** (OWASP Top 10 Web + API) and the reproducible infrastructure that serves it online. Two complementary repos: the training **content** and its **deployment**.
 
 🔗 Training server: **https://appsec.cc/**
